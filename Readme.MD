@@ -52,7 +52,7 @@ word italics
 >
 >> Nested quote
 
-| Name | Age |
+| Name   | Age |
 
 | -------| --- |
 
